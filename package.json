@@ -1,0 +1,19 @@
+{
+  "name": "jquery-numericinput",
+  "version": "1.4.0",
+  "description": "Filtering input - acceping only numerical chars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brankosekulic/jquery-numericinput.git"
+  },
+  "keywords": [
+    "jquery",
+    "numericinput"
+  ],
+  "author": "Vast",
+  "license": "BSD"
+}
